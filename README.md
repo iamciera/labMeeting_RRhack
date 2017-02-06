@@ -3,7 +3,7 @@
 February 6, 2017
 Created by: Ciera Martinez
 
-This repository holds the material for introducing approaches for making compuational research more reproducible.
+This repository holds the material for introducing approaches for making computational research more reproducible.
 
 ## Links
 
