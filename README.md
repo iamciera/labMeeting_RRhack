@@ -8,11 +8,11 @@ This repository holds the material for introducing approaches for making computa
 ## Links
 
 **Examples of how I use Github**
--  (SOM Tutorial)[https://iamciera.github.io/SOMexample/]: To host tutorials
--  (My Website)[https://github.com/iamciera/creports]: To host website
--  (Example Manuscript Repo)[https://github.com/iamciera/sister-of-pin1-material]: Host code for my papers
--  (http://ropensci.github.io/reproducibility-guide/)[http://ropensci.github.io/reproducibility-guide/]: Build things with strangers
--  Eisen Lab Github](https://github.com/meisenlab): Collaborate with lab members.
+-  [SOM Tutorial](https://iamciera.github.io/SOMexample/): To host tutorials
+-  [My Website](https://github.com/iamciera/creports): To host website
+-  [Example Manuscript Repo](https://github.com/iamciera/sister-of-pin1-material): Host code for my papers
+-  [http://ropensci.github.io/reproducibility-guide/](http://ropensci.github.io/reproducibility-guide/): Build things with strangers
+-  [Eisen Lab Github](https://github.com/meisenlab): Collaborate with lab members.
 
 **Learning Git**
 -  [Version Control Slide Show](http://reproducible-science-curriculum.github.io/2015-06-01-reproducible-science-idigbio/vcs-slides/01-motivation-slides.html#/)
